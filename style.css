@@ -198,7 +198,7 @@ nav {
         position: relative;
         display: flex;
     }
-    hi.top {
+    h1.top {
         position: static;
         width: 100%;
         margin: auto;
